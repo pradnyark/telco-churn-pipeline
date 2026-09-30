@@ -1,0 +1,14 @@
+{
+  "run_start": "2026-09-30T16:53:44.067962",
+  "run_end": "2026-09-30T16:53:47.474817",
+  "input_rows": 7043,
+  "missing_value_columns": {},
+  "top_features": {
+    "MonthlyCharges": 0.17364863233704717,
+    "tenure": 0.1715214131253068,
+    "TotalCharges": 0.16743482936486445,
+    "Contract": 0.08199818269919634,
+    "PaymentMethod": 0.05162262395172318
+  },
+  "processed_file": "output/processed_data.csv"
+}
